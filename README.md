@@ -1,12 +1,29 @@
-# React + Vite
+# React Coding Questions Collection
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a single-page React app containing solutions to **multiple coding & UI questions**, all accessible from one place. Each problem is built as a separate React component, but all are managed within a single codebase and run locally on the **same localhost port** for easy navigation, testing, and study.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## Expanding the ESLint configuration
+- Aimed at practicing and sharing React coding interview questions.
+- All solutions run within **one React app**—switch between problems from one interface.
+- Good for learning, interviews, and demoing React proficiency.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Features
+
+- **Multiple React questions/components**, each in its own file or folder.
+- All questions/components rendered from **one React project**.
+- Instant feedback: update code, save, and check the result right away.
+- Readable code for each question—helpful for revision and interview prep.
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://react.dev/) (CRA or Vite)
+- [npm](https://www.npmjs.com/) for dependencies
+- [React Router](https://reactrouter.com/) 
+
